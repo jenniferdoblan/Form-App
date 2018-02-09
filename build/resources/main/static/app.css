@@ -1,0 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Cantarell:italic|Droid+Serif:bold);
+
+body{
+    font-family: 'Cantarell', sans-serif;
+}
+
+h1{
+    padding:10x;
+}
